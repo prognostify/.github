@@ -1,1 +1,1 @@
-Prognostify.io lets you easily turn your clinical prediction model into an online, interactive prognostic tool. The tools built with prognostify look professional and do not require any coding to make.
+Prognostify.org lets you easily turn your clinical prediction model into an online, interactive prognostic tool. The tools built with prognostify look professional and do not require any coding to make.
